@@ -83,3 +83,5 @@ describe('#min', function() {
     expect(min(node).data).toEqual(3)
   })
 })
+
+const a = 'b';
